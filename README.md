@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/mhdraziff/images/blob/main/profil.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Razif</h1>
 <h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast</h3>
 
